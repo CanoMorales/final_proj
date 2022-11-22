@@ -4,7 +4,8 @@
 #define NODE_H
 
 class Node {
-
+public:
+  int row;
 };
 
 #endif //NODE_H
