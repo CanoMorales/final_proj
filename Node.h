@@ -5,7 +5,9 @@
 
 class Node {
 public:
-  int row;
+  int col;
+  int val;
+  Node* next;
 };
 
 #endif //NODE_H
