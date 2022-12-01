@@ -3,4 +3,4 @@ project(final_proj)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(final_proj cgol.cpp cgol.h Node.cpp Node.h)
+add_executable(final_proj cgol.cpp cgol.h node.cpp node.h main.cpp)
